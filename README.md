@@ -2,7 +2,9 @@
 
 In-memory FHIR Condition manager with two MCP tools: RAG retrieval and user corrections. Ingests 105 conditions in two simulated batches, flags data quality issues, and lets a patient correct their records (e.g. removing tuberculosis entries).
 
-<img width="617" height="645" alt="image" src="https://github.com/user-attachments/assets/28fe4db8-78ca-4648-a0e8-40c777b38aea" />
+<img width="593" height="610" alt="image" src="https://github.com/user-attachments/assets/5714649e-5779-468e-b756-cac397204e6c" />
+<img width="596" height="703" alt="image" src="https://github.com/user-attachments/assets/93e17850-742d-4f7e-86e1-f2e1e23e5fa6" />
+
 
 See [DESIGN_DECISIONS.md](DESIGN_DECISIONS.md) for the full design rationale.
 
