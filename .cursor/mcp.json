@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "fhir-conditions": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory",
+        ".",
+        "python",
+        "-m",
+        "fhir_conditions_manager.main"
+      ]
+    }
+  }
+}
